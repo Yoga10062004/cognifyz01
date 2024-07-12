@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Design Principles</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Basic Design Principles</h1>
+        </header>
+        <main>
+            <section class="balance">
+                <h2>Balance</h2>
+                <p>Balance in design can be achieved through symmetry or asymmetry.</p>
+            </section>
+
+            <section class="contrast">
+                <h2>Contrast</h2>
+                <p>Contrast creates visual interest by highlighting differences in elements.</p>
+            </section>
+
+            <section class="emphasis">
+                <h2>Emphasis</h2>
+                <p>Emphasis directs attention to specific elements in the design.</p>
+            </section>
+
+            <section class="proportion">
+                <h2>Proportion</h2>
+                <p>Proper proportion ensures harmony and balance in the layout.</p>
+            </section>
+
+            <section class="unity">
+                <h2>Unity</h2>
+                <p>Unity brings together elements to create a cohesive design.</p>
+            </section>
+
+            <section class="alignment">
+                <h2>Alignment</h2>
+                <p>Alignment organizes elements to create a neat and structured layout.</p>
+            </section>
+
+            <section class="repetition">
+                <h2>Repetition</h2>
+                <p>Repetition establishes consistency and reinforces design patterns.</p>
+            </section>
+
+            <section class="whitespace">
+                <h2>White Space</h2>
+                <p>White space or negative space enhances readability and reduces clutter.</p>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
